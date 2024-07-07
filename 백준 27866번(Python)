@@ -1,0 +1,5 @@
+// 백준 27866번
+s = list(input(""))
+i = int(input(""))
+
+print(s[i - 1])
