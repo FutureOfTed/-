@@ -1,4 +1,3 @@
-// 백준 27866번
 s = list(input(""))
 i = int(input(""))
 
